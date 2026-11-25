@@ -1,0 +1,88 @@
+section,question,response,frequency
+Respondent profile,Marital status,Married,327
+Respondent profile,Marital status,Separated,32
+Respondent profile,Marital status,Widowed,28
+Respondent profile,Marital status,Single,13
+Respondent profile,Highest education,Tertiary,203
+Respondent profile,Highest education,Secondary,126
+Respondent profile,Highest education,Primary,26
+Respondent profile,Highest education,No formal education,22
+Respondent profile,Highest education,Postgraduate,23
+Respondent profile,Employment status,Public sector,236
+Respondent profile,Employment status,Self-employed,83
+Respondent profile,Employment status,Unemployed,54
+Respondent profile,Employment status,Private sector,27
+Respondent profile,Monthly income,"Below ₦20,000",82
+Respondent profile,Monthly income,"₦20,000–₦50,000",114
+Respondent profile,Monthly income,"₦50,001–₦100,000",8
+Respondent profile,Monthly income,"₦100,001–₦200,000",36
+Respondent profile,Monthly income,"Above ₦200,000",160
+Respondent profile,Years lived in Iwaya,1–5 years,124
+Respondent profile,Years lived in Iwaya,6–10 years,183
+Respondent profile,Years lived in Iwaya,11–15 years,23
+Respondent profile,Years lived in Iwaya,16–20 years,33
+Respondent profile,Years lived in Iwaya,21 years and above,37
+Perception of the removal,Source of information,Word of mouth,156
+Perception of the removal,Source of information,Social media,137
+Perception of the removal,Source of information,Television,74
+Perception of the removal,Source of information,Radio,19
+Perception of the removal,Source of information,Newspapers,14
+Perception of the removal,Support for subsidy removal,Support,167
+Perception of the removal,Support for subsidy removal,Do not support,233
+Perception of the removal,Believe government's justification,Believe,131
+Perception of the removal,Believe government's justification,Do not believe,269
+Perception of the removal,Confidence in government's ability to manage it,Yes,115
+Perception of the removal,Confidence in government's ability to manage it,No,285
+Perception of the removal,Expect long-term benefits,Yes,151
+Perception of the removal,Expect long-term benefits,No,249
+Cost of living,Cost of living increased,Yes,375
+Cost of living,Cost of living increased,No,25
+Cost of living,Spending on food increased,Yes,385
+Cost of living,Spending on food increased,No,15
+Cost of living,Spending on transport increased,Yes,384
+Cost of living,Spending on transport increased,No,16
+Cost of living,Spending on utilities increased,Yes,392
+Cost of living,Spending on utilities increased,No,8
+Cost of living,Spending on rent increased,Yes,384
+Cost of living,Spending on rent increased,No,16
+Cost of living,Overall financial burden increased,Yes,392
+Cost of living,Overall financial burden increased,No,8
+Cost of living,Ability to meet basic needs decreased,Yes,384
+Cost of living,Ability to meet basic needs decreased,No,16
+Consumption patterns,Changed food consumption,Yes,388
+Consumption patterns,Changed food consumption,No,12
+Consumption patterns,Use public transport more,Yes,391
+Consumption patterns,Use public transport more,No,9
+Consumption patterns,Use private vehicle less,Yes,396
+Consumption patterns,Use private vehicle less,No,4
+Consumption patterns,Cut non-essential goods,Yes,392
+Consumption patterns,Cut non-essential goods,No,8
+Consumption patterns,Adjusted lifestyle,Yes,374
+Consumption patterns,Adjusted lifestyle,No,26
+Consumption patterns,Reduced health and nutrition spending,Yes,388
+Consumption patterns,Reduced health and nutrition spending,No,12
+Access to essential services,Overall access to essential services,Remained the same,152
+Access to essential services,Overall access to essential services,Significantly deteriorated,137
+Access to essential services,Overall access to essential services,Deteriorated,107
+Access to essential services,Overall access to essential services,Improved,4
+Access to essential services,Access to education services for children,Remained the same,162
+Access to essential services,Access to education services for children,Significantly deteriorated,148
+Access to essential services,Access to education services for children,Deteriorated,90
+Access to essential services,Difficulty accessing essential services,Yes,369
+Access to essential services,Difficulty accessing essential services,No,31
+Coping strategies,Sought help from family or friends,Yes,400
+Coping strategies,Sought help from family or friends,No,0
+Coping strategies,Cut household spending on non-essentials,Yes,379
+Coping strategies,Cut household spending on non-essentials,No,21
+Coping strategies,Used savings or sold assets,Yes,368
+Coping strategies,Used savings or sold assets,No,32
+Coping strategies,Joined community support programmes,Yes,348
+Coping strategies,Joined community support programmes,No,52
+Coping strategies,Took on multiple jobs,Yes,332
+Coping strategies,Took on multiple jobs,No,68
+Coping strategies,Moved to cheaper housing,Yes,330
+Coping strategies,Moved to cheaper housing,No,70
+Coping strategies,Started new income-generating activity,Yes,320
+Coping strategies,Started new income-generating activity,No,80
+Coping strategies,Received government or NGO assistance,Yes,321
+Coping strategies,Received government or NGO assistance,No,79

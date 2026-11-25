@@ -1,0 +1,88 @@
+section,question,response,frequency,pct
+Respondent profile,Marital status,Married,327,81.8
+Respondent profile,Marital status,Separated,32,8.0
+Respondent profile,Marital status,Widowed,28,7.0
+Respondent profile,Marital status,Single,13,3.2
+Respondent profile,Highest education,Tertiary,203,50.8
+Respondent profile,Highest education,Secondary,126,31.5
+Respondent profile,Highest education,Primary,26,6.5
+Respondent profile,Highest education,No formal education,22,5.5
+Respondent profile,Highest education,Postgraduate,23,5.8
+Respondent profile,Employment status,Public sector,236,59.0
+Respondent profile,Employment status,Self-employed,83,20.8
+Respondent profile,Employment status,Unemployed,54,13.5
+Respondent profile,Employment status,Private sector,27,6.8
+Respondent profile,Monthly income,"Below ₦20,000",82,20.5
+Respondent profile,Monthly income,"₦20,000–₦50,000",114,28.5
+Respondent profile,Monthly income,"₦50,001–₦100,000",8,2.0
+Respondent profile,Monthly income,"₦100,001–₦200,000",36,9.0
+Respondent profile,Monthly income,"Above ₦200,000",160,40.0
+Respondent profile,Years lived in Iwaya,1–5 years,124,31.0
+Respondent profile,Years lived in Iwaya,6–10 years,183,45.8
+Respondent profile,Years lived in Iwaya,11–15 years,23,5.8
+Respondent profile,Years lived in Iwaya,16–20 years,33,8.2
+Respondent profile,Years lived in Iwaya,21 years and above,37,9.2
+Perception of the removal,Source of information,Word of mouth,156,39.0
+Perception of the removal,Source of information,Social media,137,34.2
+Perception of the removal,Source of information,Television,74,18.5
+Perception of the removal,Source of information,Radio,19,4.8
+Perception of the removal,Source of information,Newspapers,14,3.5
+Perception of the removal,Support for subsidy removal,Support,167,41.8
+Perception of the removal,Support for subsidy removal,Do not support,233,58.2
+Perception of the removal,Believe government's justification,Believe,131,32.8
+Perception of the removal,Believe government's justification,Do not believe,269,67.2
+Perception of the removal,Confidence in government's ability to manage it,Yes,115,28.8
+Perception of the removal,Confidence in government's ability to manage it,No,285,71.2
+Perception of the removal,Expect long-term benefits,Yes,151,37.8
+Perception of the removal,Expect long-term benefits,No,249,62.2
+Cost of living,Cost of living increased,Yes,375,93.8
+Cost of living,Cost of living increased,No,25,6.2
+Cost of living,Spending on food increased,Yes,385,96.2
+Cost of living,Spending on food increased,No,15,3.8
+Cost of living,Spending on transport increased,Yes,384,96.0
+Cost of living,Spending on transport increased,No,16,4.0
+Cost of living,Spending on utilities increased,Yes,392,98.0
+Cost of living,Spending on utilities increased,No,8,2.0
+Cost of living,Spending on rent increased,Yes,384,96.0
+Cost of living,Spending on rent increased,No,16,4.0
+Cost of living,Overall financial burden increased,Yes,392,98.0
+Cost of living,Overall financial burden increased,No,8,2.0
+Cost of living,Ability to meet basic needs decreased,Yes,384,96.0
+Cost of living,Ability to meet basic needs decreased,No,16,4.0
+Consumption patterns,Changed food consumption,Yes,388,97.0
+Consumption patterns,Changed food consumption,No,12,3.0
+Consumption patterns,Use public transport more,Yes,391,97.8
+Consumption patterns,Use public transport more,No,9,2.2
+Consumption patterns,Use private vehicle less,Yes,396,99.0
+Consumption patterns,Use private vehicle less,No,4,1.0
+Consumption patterns,Cut non-essential goods,Yes,392,98.0
+Consumption patterns,Cut non-essential goods,No,8,2.0
+Consumption patterns,Adjusted lifestyle,Yes,374,93.5
+Consumption patterns,Adjusted lifestyle,No,26,6.5
+Consumption patterns,Reduced health and nutrition spending,Yes,388,97.0
+Consumption patterns,Reduced health and nutrition spending,No,12,3.0
+Access to essential services,Overall access to essential services,Remained the same,152,38.0
+Access to essential services,Overall access to essential services,Significantly deteriorated,137,34.2
+Access to essential services,Overall access to essential services,Deteriorated,107,26.8
+Access to essential services,Overall access to essential services,Improved,4,1.0
+Access to essential services,Access to education services for children,Remained the same,162,40.5
+Access to essential services,Access to education services for children,Significantly deteriorated,148,37.0
+Access to essential services,Access to education services for children,Deteriorated,90,22.5
+Access to essential services,Difficulty accessing essential services,Yes,369,92.2
+Access to essential services,Difficulty accessing essential services,No,31,7.8
+Coping strategies,Sought help from family or friends,Yes,400,100.0
+Coping strategies,Sought help from family or friends,No,0,0.0
+Coping strategies,Cut household spending on non-essentials,Yes,379,94.8
+Coping strategies,Cut household spending on non-essentials,No,21,5.2
+Coping strategies,Used savings or sold assets,Yes,368,92.0
+Coping strategies,Used savings or sold assets,No,32,8.0
+Coping strategies,Joined community support programmes,Yes,348,87.0
+Coping strategies,Joined community support programmes,No,52,13.0
+Coping strategies,Took on multiple jobs,Yes,332,83.0
+Coping strategies,Took on multiple jobs,No,68,17.0
+Coping strategies,Moved to cheaper housing,Yes,330,82.5
+Coping strategies,Moved to cheaper housing,No,70,17.5
+Coping strategies,Started new income-generating activity,Yes,320,80.0
+Coping strategies,Started new income-generating activity,No,80,20.0
+Coping strategies,Received government or NGO assistance,Yes,321,80.2
+Coping strategies,Received government or NGO assistance,No,79,19.8
