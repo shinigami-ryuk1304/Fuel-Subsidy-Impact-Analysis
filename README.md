@@ -7,7 +7,7 @@ Key Points:
 * Low trust: most residents do not believe the reasons the government gave.
 * Coping: households are cutting back, using up their savings and leaning on family.
 
-Tools I used: SPSS, SQL, Python (pandas), Excel, Power BI
+Tools I used: SPSS, SQL Server, Python (pandas), Excel, Power BI
 
 Data: 400 households in Iwaya, collected in 2024. The figures here come from the frequency tables in the final report.
 
@@ -37,21 +37,23 @@ Data: 400 households in Iwaya, collected in 2024. The figures here come from the
 ## Repo structure
 ```
 Data/
-  frequency_tables.csv            every frequency table from the report
-  frequency_tables_with_pct.csv   after percentages.py
+  frequency_tables.csv     every frequency table from the report in one table
 Scripts/
-  01_create_table.sql
-  02_analysis_queries.sql
+  dim_questions.sql
+  fact_frequencies.sql
+Frequency Analysis/
   percentages.py
+  frequency_tables_with_percentages.csv
 Dashboard/
   dashboard.png / dashboard.html
-  Excel workbook (dashboard, charts, data, tests)
+  Excel workbook (dashboard, a chart for every table, data, tests)
 ```
 
 ## How to run it
-1. Create the table with `Scripts/01_create_table.sql` and load `Data/frequency_tables.csv` into it.
-2. Run `Scripts/02_analysis_queries.sql` for the percentages and the numbers on the KPI cards.
-3. `python Scripts/percentages.py` does the same in Python and saves a table ready for Power BI.
-4. Open the Excel workbook in the Dashboard folder, or load it into Power BI (Get data > Excel workbook).
+1. In SQL Server create a database called IwayaFuelSurveyDB and import `Data/frequency_tables.csv` as `dbo.frequency_tables` (Tasks > Import Flat File).
+2. Run `Scripts/dim_questions.sql` and `Scripts/fact_frequencies.sql`.
+3. Load the query results into Power BI (Get data > SQL Server) to build the dashboard.
+4. Run `Frequency Analysis/percentages.py`. It reads from SQL Server, or from the CSV if SQL Server is not set up.
+
 
 Researcher and analyst: Daniel Oluwaseun David. No names or personal details are included.
